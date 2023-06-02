@@ -1,9 +1,12 @@
-### Hi! 👋 
-My name is Valentina Wiehl, I'm 21 y/o and I'm from Argentina. 
+### Hi 👋 I'm Valentina Wiehl
 
-🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript. </br>
-🌼 I'm currently learning new technologies to increase my stack on web development. </br> </br> 
+<hr>
 
+<ul>
+<li>🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript. </li>
+<li>🌼 I'm currently learning new technologies to increase my stack on web development. </li>
+</ul>
+  
 📩 How to reach me: valentinawiehl.dev@gmail.com
 
 Hope you have a nice day!
