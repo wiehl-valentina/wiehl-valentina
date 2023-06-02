@@ -1,6 +1,8 @@
 ### 
 
-<h1 align="center"> Hi! 💛 </h1>
+<h2 align="center"> Hi! 💛 </h2>
+
+<h3> I'm Valentina Wiehl | Frontend Developer Jr. </h3>
 
 <ul>
 <li>🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript. </li>
