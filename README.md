@@ -1,4 +1,6 @@
-### Hi 👋 I'm Valentina Wiehl <style text-align="center">
+### 
+
+<h1 align="center"> Hi! I'm Valentina Wiehl </h1>
 
 <hr>
 
