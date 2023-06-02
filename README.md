@@ -6,7 +6,7 @@
 
 <ul>
 <li>🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript. </li>
-<li>🌼 I'm currently learning new skills to increase my stack on web development. </li>
+<li>🌼 I'm currently working on increasing my web development stack. </li>
 </ul> 
 
 </br>
