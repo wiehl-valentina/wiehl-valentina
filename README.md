@@ -1,6 +1,6 @@
 ### 
 
-<h1 align="center"> Hi! I'm Valentina Wiehl </h1>
+<h1 align="center"> Hi! 💛 </h1>
 
 <ul>
 <li>🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript. </li>
