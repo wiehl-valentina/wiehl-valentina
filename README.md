@@ -3,7 +3,13 @@ My name is Valentina, I'm 21 y/o and I'm from Argentina.
 
 ☕ I really enjoy drinking coffee and tea, so it is pretty normal to see me with a cup of it whilst coding. </br>
 🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript. </br>
-🌼 I'm currently learning new technologies to increase my stack on web development. 
+🌼 I'm currently learning new technologies to increase my stack on web development. </br> </br> 
+
+📩 How to reach me: valentinawiehl.dev@gmail.com
+
+Hope you have a nice day!
+
+
 
 
 
