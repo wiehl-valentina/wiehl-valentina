@@ -2,16 +2,18 @@
 
 <h2 align="center"> Hey! 💛 </h2>
 
-<h3 align="center"> I'm Valentina Wiehl | Frontend Developer Jr. </h3>
+<h3 align="center"> I'm Valentina Wiehl | Frontend Developer Jr. </h3> </br>
 
 <ul>
 <li>🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript. </li>
 <li>🌼 I'm currently learning new technologies to increase my stack on web development. </li>
-</ul>
-  
+</ul> 
+
+</br>
+
 📩 How to reach me: valentinawiehl.dev@gmail.com
 
-Hope you have a nice day!
+Hope you have a nice day! 🧚‍♀️
 
 
 
