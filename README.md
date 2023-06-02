@@ -1,4 +1,4 @@
-### Hi 👋 I'm Valentina Wiehl
+### Hi 👋 I'm Valentina Wiehl <style text-align="center">
 
 <hr>
 
