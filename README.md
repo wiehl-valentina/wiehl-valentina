@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Valentina, I'm 21 y/o and I'm from Argentina. 
+
+☕ I really enjoy drinking coffee and tea, so it is pretty normal to see me with a cup of it whilst coding.
+🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript.
+🌼 I'm currently learning new technologies to increase my stack on web development. 
+
+
 
 <!--
 **wiehl-valentina/wiehl-valentina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
