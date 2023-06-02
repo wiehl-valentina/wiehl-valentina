@@ -2,8 +2,6 @@
 
 <h1 align="center"> Hi! I'm Valentina Wiehl </h1>
 
-<hr>
-
 <ul>
 <li>🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript. </li>
 <li>🌼 I'm currently learning new technologies to increase my stack on web development. </li>
