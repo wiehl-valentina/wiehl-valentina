@@ -13,7 +13,7 @@
 
 📩 How to reach me: valentinawiehl.dev@gmail.com
 
-Hope you have a nice day! 🧚‍♀️
+align="center" Hope you have a nice day! 🧚‍♀️
 
 
 
