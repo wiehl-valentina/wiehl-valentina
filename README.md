@@ -4,12 +4,6 @@
 
 <h3 align="center"> I'm Valentina Wiehl </h3> </br>
 
-<ul>
-<li>🍄 The technologies that I'm most familiar with are HTML5, CSS3 and JavaScript. </li>
-<li>🌼 I'm currently working on increasing my web development stack.  </li>
-</ul> 
-
-</br>
 
 📩 How to reach me: valentinawiehl.dev@gmail.com
 
