@@ -9,4 +9,4 @@
 
 <p align="center"> Hope you have a nice day! 🧚‍♀️ </p>
 
-![@valenwiehl #30NitesOfCode](https://www.codedex.io/api/petStatus?user=valenwiehl)
+  (https://www.codedex.io/api/petStatus?user=valenwiehl)
