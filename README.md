@@ -7,7 +7,7 @@
 
 📩 How to reach me: valentinawiehl.dev@gmail.com
 
-![@valenwiehl #30NitesOfCode](https://www.codedex.io/api/petStatus?user=valenwiehl) 
+![align='center' @valenwiehl #30NitesOfCode](https://www.codedex.io/api/petStatus?user=valenwiehl) 
 
 <p align="center"> Hope you have a nice day! 🧚‍♀️ </p>
 
