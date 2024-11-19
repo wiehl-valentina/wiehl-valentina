@@ -3,15 +3,19 @@
 ![Welcome!](https://github.com/user-attachments/assets/6d03b147-4641-4f4e-920f-b3bd3c22ba89)
 
 
-<h1 align="center"> I'm Valentina 💜</h1> <br/><br/>
-<p>🍄 Computer science student at Universidad Nacional de La Plata</p>
-<p>🔬 Science enthusiast</p>
-<p>🌱 Currently learning Python</p>
+<h1 align="center"> I'm Valentina 💜</h1> </br></br>
+<div align="center">
+  <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
+  <p>🔬 Science enthusiast</p>
+  <p>🌱 Currently learning Python</p>
+</div>
+
 
 <div align="center">
   
   ![@valenwiehl #30NitesOfCode](https://www.codedex.io/api/petStatus?user=valenwiehl)
-  📩 How to reach me: valentinawiehl.dev@gmail.com
+  <p align="center">📩 How to reach me: valentinawiehl.dev@gmail.com</p>
+  
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wiehl-valentina&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=wiehl-valentina&theme=nightowl&hide_border=false)
   
