@@ -5,7 +5,7 @@
 <div align="center"
   <p>🔬 Science enthusiast</p>
   <p>🌱 Currently learning Python</p>
-  <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
+  <p>🍄 Computer Science student at Universidad Nacional de La Plata</p>
 </div></br>
 
 <div align="center">
