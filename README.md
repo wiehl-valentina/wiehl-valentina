@@ -3,11 +3,13 @@
 ![Welcome!](https://github.com/user-attachments/assets/6d03b147-4641-4f4e-920f-b3bd3c22ba89)
 
 
-<h1 align="center"> I'm Valentina 💜</h1> </br></br>
+<h1 align="center"> I'm Valentina 💜</h1> </br>
 <div align="center">
-  <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
-  <p>🔬 Science enthusiast</p>
-  <p>🌱 Currently learning Python</p>
+  <li>
+    <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
+    <p>🔬 Science enthusiast</p>
+    <p>🌱 Currently learning Python</p>
+  </li>
 </div>
 
 
