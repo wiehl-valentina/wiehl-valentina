@@ -8,16 +8,16 @@
 <div align="center">
   
 ![@valenwiehl #30NitesOfCode](https://www.codedex.io/api/petStatus?user=valenwiehl)
-</div>
+</div></br></br>
 
 <div>
   <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
   <p>🔬 Science enthusiast</p>
   <p>🌱 Currently learning Python</p>
-</div></br>
+</div></br></br>
 
 <div align="center">
-  <p>📩 How to reach me: valentinawiehl.dev@gmail.com</p>
+  <p>📩 How to reach me: valentinawiehl.dev@gmail.com</p></br></br>
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wiehl-valentina&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=wiehl-valentina&theme=nightowl&hide_border=false)
