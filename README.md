@@ -5,10 +5,10 @@
 
 <h1 align="center"> I'm Valentina 💜</h1> </br>
 <div align="center">
-  <li>
-    <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
-    <p>🔬 Science enthusiast</p>
-    <p>🌱 Currently learning Python</p>
+  <li list-style="none">
+    <ul><p>🍄 Computer science student at Universidad Nacional de La Plata</p></ul>
+    <ul><p>🔬 Science enthusiast</p></ul>
+    <ul><p>🌱 Currently learning Python</p></ul>
   </li>
 </div>
 
