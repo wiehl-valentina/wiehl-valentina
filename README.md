@@ -3,9 +3,9 @@
 
 <h2 align="center" margin="5px"> I'm Valentina 💜</h2> </br>
 <div align="center"
-  <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
   <p>🔬 Science enthusiast</p>
   <p>🌱 Currently learning Python</p>
+  <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
 </div></br></br>
 
 <div align="center">
