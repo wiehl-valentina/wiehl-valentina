@@ -18,7 +18,6 @@
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wiehl-valentina&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=wiehl-valentina&theme=nightowl&hide_border=false)
-  
 </div></br>
 <p align="center"> Hope you have a nice day! 🧚‍♀️ </p>
 
