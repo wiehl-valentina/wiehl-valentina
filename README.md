@@ -1,7 +1,7 @@
 ![Welcome!](https://github.com/user-attachments/assets/6d03b147-4641-4f4e-920f-b3bd3c22ba89)
 
 
-<h2 align="center" margin="5px"> I'm Valentina 💜</h2> </br>
+<h1 align="center"> I'm Valentina 💜</h1> </br>
 <div align="center"
   <p>🔬 Science enthusiast</p>
   <p>🌱 Currently learning Python</p>
