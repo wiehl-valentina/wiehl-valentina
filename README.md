@@ -7,7 +7,7 @@
   <p>🌱 Currently learning Python</p>
   <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
 </div></br>
-***
+<hr> 
 </br>
 
 <div align="center">
@@ -22,7 +22,7 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=wiehl-valentina&theme=nightowl&hide_border=false)
   
 </div></br>
-***
+<hr> 
 <p align="center"> Hope you have a nice day! 🧚‍♀️ </p>
 
 ![svg(11)](https://github.com/user-attachments/assets/c7b9ca89-426e-40c9-ae0d-210a4f3c1eaf)
