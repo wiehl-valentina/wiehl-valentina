@@ -1,9 +1,7 @@
-### 
-
 ![Welcome!](https://github.com/user-attachments/assets/6d03b147-4641-4f4e-920f-b3bd3c22ba89)
 
 
-<h2 align="center"> I'm Valentina 💜</h2> </br>
+<h2 align="center" margin="5px"> I'm Valentina 💜</h2> </br>
 <div>
   <p>🍄 Computer science student at Universidad Nacional de La Plata</p>
   <p>🔬 Science enthusiast</p>
