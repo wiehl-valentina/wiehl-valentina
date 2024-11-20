@@ -5,7 +5,7 @@
 <div align="center"
   <p>🔬 Science enthusiast</p>
   <p>🌱 Currently learning Python</p>
-  <p>🍄 Computer Science student at Universidad Nacional de La Plata</p>
+  <p>🍄 Computer Science student at Universidad Nacional de La Plata, Argentina.</p>
 </div></br>
 
 <div align="center">
@@ -14,7 +14,7 @@
 </div></br>
 
 <div align="center">
-  <p>📩 How to reach me: valentinawiehl.dev@gmail.com</p></br>
+  <p>📩 <b>How to reach me:</b> valentinawiehl.dev@gmail.com</p></br>
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wiehl-valentina&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=wiehl-valentina&theme=nightowl&hide_border=false)
