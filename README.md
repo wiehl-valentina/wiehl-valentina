@@ -1,27 +1,35 @@
-![Welcome!](https://github.com/user-attachments/assets/6d03b147-4641-4f4e-920f-b3bd3c22ba89)
+![Welcome!](Welcome.png)
+<h1 align="center"> I'm Valentina</h1> 
 
+![mariposas](mariposas.png)
 
-<h1 align="center"> I'm Valentina 💜</h1> </br>
-<div align="center"
+<div align="center">
   <p>🔬 Science enthusiast</p>
   <p>🌱 Currently learning Python</p>
   <p>🍄 Computer Science student at Universidad Nacional de La Plata, Argentina.</p>
-</div></br>
+
+  ![@valenwiehl #30NitesOfCode](gif)
+  </br> </br>
+</div>
 
 <div align="center">
   
-![@valenwiehl #30NitesOfCode](https://www.codedex.io/api/petStatus?user=valenwiehl)
-</div></br>
+  *** 
+  </br>
+
+  #### 📩 <b>How to reach me:</b>  [valentinawiehl.dev@gmail.com](mailto:valentinawiehl.dev@gmail.com) 
+  </br>
+  
+</div> 
+
+![mariposas](mariposas.png)
 
 <div align="center">
-  <p>📩 <b>How to reach me:</b> valentinawiehl.dev@gmail.com</p></br>
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wiehl-valentina&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=wiehl-valentina&theme=nightowl&hide_border=false)
-</div></br>
-<p align="center"> Hope you have a nice day! 🧚‍♀️ </p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiehl-valentina&layout=compact&card_width=800&title_color=9F0D16&bg_color=0000&hide_border=true&text_color=FFFF)
+  
+</div> </br>
 
-![svg(11)](https://github.com/user-attachments/assets/c7b9ca89-426e-40c9-ae0d-210a4f3c1eaf)
-
+![Hope you have a nice day](footer.png)
 
 
