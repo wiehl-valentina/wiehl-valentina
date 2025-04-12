@@ -14,9 +14,6 @@
 
 <div align="center">
   
-  *** 
-  </br>
-
   #### 📩 <b>How to reach me:</b>  [valentinawiehl.dev@gmail.com](mailto:valentinawiehl.dev@gmail.com) 
   </br>
   
