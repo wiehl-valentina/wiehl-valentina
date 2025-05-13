@@ -8,7 +8,7 @@
   <p>🌱 Currently learning Python</p>
   <p>🍄 Computer Science student at Universidad Nacional de La Plata, Argentina.</p>
 
-  ![@valenwiehl #30NitesOfCode](gif)
+  ![](gif)
   </br> </br>
 </div>
 
