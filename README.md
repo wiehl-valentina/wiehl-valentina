@@ -24,7 +24,7 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiehl-valentina&layout=compact&card_width=800&title_color=238193&bg_color=0000&hide_border=true&text_color=FFFF)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiehl-valentina&layout=compact&&langs_count=9card_width=800&title_color=238193&bg_color=0000&hide_border=true&text_color=FFFF)
   
 </div> </br>
 
