@@ -16,22 +16,17 @@ jobs:
       - name: Generar Tarjeta de Lenguajes In-Depth
         uses: lowlighter/metrics@latest
         with:
-          # Conexión segura con el token que guardamos en los Secrets
+          # Conexión segura
           token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Nombre del archivo de salida que se guardará localmente
           filename: github-metrics.svg
           
-          # Configuración estética (Modo compacto, transparente y optimizado)
-          template: compact
-          config_transparent: yes
-          config_padding: 0%
-          
-          # Ocultamos la cabecera estándar de GitHub para mostrar ÚNICAMENTE la tarjeta de lenguajes
+          # CORRECCIÓN: Plantilla oficial y eliminamos config_transparent
+          template: classic
           base: ""
+          config_padding: 0%
           
           # Activación y parámetros del plugin de lenguajes
           plugin_languages: yes
-          plugin_languages_indepth: yes # <--- Clave para escanear tus commits en repositorios ajenos
+          plugin_languages_indepth: yes 
           plugin_languages_limit: 10
           plugin_languages_details: percentage
