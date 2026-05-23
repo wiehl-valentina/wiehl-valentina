@@ -1,5 +1,6 @@
 ![Welcome!](Welcome.png)
-<h1 align="center"> I'm Valentina</h1> 
+
+<h1 align="center"> I'm Valentina</h1>
 
 ![mariposas](mariposas.png)
 
@@ -8,25 +9,25 @@
   <p>🌱 Currently learning Python</p>
   <p>🍄 Computer Science student at Universidad Nacional de La Plata, Argentina.</p>
 
-  ![](gif)
-  </br> </br>
+![](gif)
+</br> </br>
+
 </div>
 
 <div align="center">
-  
 
-  #### 📩 <b>How to reach me:</b>  [valentinawiehl.dev@gmail.com](mailto:valentinawiehl.dev@gmail.com) 
+
+#### 📩 <b>How to reach me:</b> [valentinawiehl.dev@gmail.com](mailto:valentinawiehl.dev@gmail.com)
+
   </br>
   
-</div> 
+</div>
 
 ![mariposas](mariposas.png)
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wiehl-valentina&layout=compact&langs_count=10&card_width=800&title_color=238193&bg_color=00000000&hide_border=true&text_color=FFFFFF" alt="Top Langs" />
+  <img src="github-metrics.svg" alt="Mis Lenguajes de Programación más usados" />
 </div>
 <br />
 
 ![Hope you have a nice day](footer.png)
-
-
