@@ -1,0 +1,37 @@
+name: Metrics - Análisis Profundo de Lenguajes
+on:
+  # Se ejecuta automáticamente todos los días a las 00:00 UTC (9 PM en Argentina)
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite que ejecutes el script manualmente desde la pestaña "Actions" cuando quieras probarlo
+  workflow_dispatch:
+  # Se ejecuta de forma inmediata si realizás algún cambio en las ramas principales
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generar Tarjeta de Lenguajes In-Depth
+        uses: lowlighter/metrics@latest
+        with:
+          # Conexión segura con el token que guardamos en los Secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Nombre del archivo de salida que se guardará localmente
+          filename: github-metrics.svg
+          
+          # Configuración estética (Modo compacto, transparente y optimizado)
+          template: compact
+          config_transparent: yes
+          config_padding: 0%
+          
+          # Ocultamos la cabecera estándar de GitHub para mostrar ÚNICAMENTE la tarjeta de lenguajes
+          base: ""
+          
+          # Activación y parámetros del plugin de lenguajes
+          plugin_languages: yes
+          plugin_languages_indepth: yes # <--- Clave para escanear tus commits en repositorios ajenos
+          plugin_languages_limit: 10
+          plugin_languages_details: percentage
