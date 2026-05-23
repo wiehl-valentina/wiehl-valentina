@@ -16,17 +16,26 @@ jobs:
       - name: Generar Tarjeta de Lenguajes In-Depth
         uses: lowlighter/metrics@latest
         with:
-          # Conexión segura
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          
-          # CORRECCIÓN: Plantilla oficial y eliminamos config_transparent
           template: classic
           base: ""
           config_padding: 0%
           
-          # Activación y parámetros del plugin de lenguajes
+          # LENGUAJES
           plugin_languages: yes
           plugin_languages_indepth: yes 
           plugin_languages_limit: 10
           plugin_languages_details: percentage
+          plugin_languages_threshold: 0%
+          
+          # ESTÉTICA
+          extras_css: |
+            /* 1. Oculta el encabezado superior ("14 Languages") */
+            .h2 { display: none !important; }
+            
+            /* 2. Pone en mayúscula la primera letra de cada palabra ("Most Used Languages") */
+            .h3 { text-transform: capitalize !important; }
+            
+            /* 3. Cambia el color de ese subtítulo (reemplazá el HEX o borrá la línea si querés el original) */
+            :root { --color-header: #238193 !important; }
