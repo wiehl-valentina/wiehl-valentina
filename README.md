@@ -26,7 +26,9 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiehl-valentina&layout=compact&langs_count=10&card_width=800&title_color=238193&bg_color=0000&hide_border=true&text_color=FFFF)
   
-</div> </br>
+</div> 
+
+<br>
 
 ![Hope you have a nice day](footer.png)
 
