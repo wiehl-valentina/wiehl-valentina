@@ -16,7 +16,6 @@
 
 <div align="center">
 
-
 #### 📩 <b>How to reach me:</b> [valentinawiehl.dev@gmail.com](mailto:valentinawiehl.dev@gmail.com)
 
   </br>
@@ -26,7 +25,7 @@
 ![mariposas](mariposas.png)
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Mis Lenguajes de Programación más usados" />
+  <img src="github-metrics.svg" alt="Top Langs" />
 </div>
 <br />
 
